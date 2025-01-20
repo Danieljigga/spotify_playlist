@@ -1,6 +1,6 @@
+*.git*
 *terraform.tfvars
 *.terraform*
 *.tfstate
 *.tfstate.*
 *.env
-*.gitignore
